@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kareem-Medhat-Mohamed
 - 👀 I’m interested in Technology 
 - 🌱 I’m currently learning front-end stack
-- 💞️ I’m looking to collaborate on route acadmy
+- 💞️ I’m looking to collaborate on route academy
 - 📫 How to reach me +201069729553
-- 😄 Pronouns: He / him
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: Programming hard apps and learning new things about them is something I enjoy doing during my free time.
 - 💪🏻 skills:  HTML, CSS, JS, and Bootstrap.
